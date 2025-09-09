@@ -24,9 +24,9 @@ This project gave me hands-on experience in 𝘀𝘂𝗿𝘃𝗲𝘆 𝗱𝗲�
 
 Looking forward to applying these analytical skills and methodologies in real-world business, telecom and construction projects.
 
-🔗 Full report available on request.
+🔗 Full dataset and raw report available on request.
 
-
+[Report Link - PDF](https://github.com/AbdullahSalimTurzo/Presentation-on-Survey-Report-BUS-503---Statistics-for-Managers-/blob/e10abb0c8c182689217e8cd6fb56072835e733df/Presentation%20(Survey%20report)%20-%20BUS%20-%20503%20Statistics%20for%20Manages%20-%20Abdullah%20Salim%20Turja.pdf)
 
 
 Copyright (c) 2025 Abdullah Salim Turja 
